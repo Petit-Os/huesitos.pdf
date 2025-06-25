@@ -1,9 +1,9 @@
 # GPI
 
-##Funciones actuales
+## Funciones actuales
 
--Leer un archivo csv con los datos de los pacientes
--mostrar los datos en una tabla
+- Leer un archivo csv con los datos de los pacientes
+- mostrar los datos en una tabla
 
 ## Instrucciones de Instalación y Uso
 
