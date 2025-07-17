@@ -7,7 +7,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["huesitosPDF/src/*"]
     },
     "noImplicitAny": false,
     "noUnusedParameters": false,

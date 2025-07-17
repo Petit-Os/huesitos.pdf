@@ -23,8 +23,8 @@
 
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["huesitosPDF/src/*"]
     }
   },
-  "include": ["src"]
+  "include": ["huesitosPDF/src"]
 }
